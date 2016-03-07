@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T10:10:22.214Z'
-dateModified: '2016-03-07T10:09:48.674Z'
+datePublished: '2016-03-07T10:31:43.606Z'
+dateModified: '2016-03-07T10:10:24.917Z'
 title: 'The new era of Web Development!'
 author: []
 sourcePath: _posts/2016-03-07-the-new-era-of-web-development.md
