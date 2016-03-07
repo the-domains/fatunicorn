@@ -2,6 +2,7 @@ name: FATUnicorn
 favicon: null
 layout_spectrum: 0.3561610777396709
 typography_spectrum: 0.04025637242011726
+title: Welcome to FATUnicorn.com
 cta:
   domain: null
   bucket: null
