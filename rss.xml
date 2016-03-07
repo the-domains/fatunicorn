@@ -4,11 +4,18 @@
         <description><![CDATA[Welcome to FATUnicorn.com]]></description>
         <link>https://thegrid.ai/fatunicorn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 10:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 10:33:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fatunicorn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[WHO WE ARE]]></title>
+            <description><![CDATA[<article><h1>WHO WE ARE</h1><p>We are software and hardware specialists bridging the gap between digital and experiential. Sure we are wacky thinkers and come out with some off the wall stuff at times but our focus is always on the final product, the client and the KPI’s set.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fabec89688d0f3d216d2e85c657269f3aa7980ad.png"></article>]]></description>
+            <link>https://thegrid.ai/fatunicorn/who-we-are/index.html</link>
+            <guid isPermaLink="false">e2d2c5b6-b77e-4d36-854e-dc71e707c9ca</guid>
+            <pubDate>Mon, 07 Mar 2016 10:33:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to FATUnicorn</p></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome</h1><p>There is a collection of digital gurus in a sweaty West London studio that call themselves the FATUnicorn. Why? Well because unicorns are hard to find and fat ones give great cuddles.</p></article>]]></description>
             <link>https://thegrid.ai/fatunicorn/welcome/index.html</link>
             <guid isPermaLink="false">3bbbdb93-5b9a-4dad-85d0-4b8a10cac729</guid>
             <pubDate>Mon, 07 Mar 2016 10:31:21 GMT</pubDate>
